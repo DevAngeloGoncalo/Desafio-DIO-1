@@ -1,2 +1,3 @@
 # Desafio DIO 1
- Exercício .Net básico
+ Primeiro Desafio "Legal" realizado no Bootcamp LocalizaLabs .NET Developer.
+ 
